@@ -248,4 +248,4 @@ async def skip(interaction: nextcord.Interaction):
 
 
 webserver.keep_alive()
-
+bot.run(DISCORD_TOKEN)
